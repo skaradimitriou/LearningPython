@@ -1,6 +1,5 @@
-# Request
+# Get Request
 import json
-
 import requests
 
 from request.Monster import Monster
